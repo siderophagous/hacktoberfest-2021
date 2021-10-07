@@ -1,3 +1,3 @@
 | Name                  | Github                                                       
 | --------------------- | -------------------------------------------------------------
-| Your Name             | [@your_username](https://github.com/username)
+| Kishan Kaushik        | [@whitesinter](https://github.com/whitesinter)
